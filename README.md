@@ -5,6 +5,6 @@ The study aims to offer valuable insights and recommendations to key stakeholder
 These findings can be instrumental for stakeholders in reviewing and formulating regulations tailored to specific demographic groups, contributing to the advancement of Sustainable Development Goal 8A, which promotes decent work and economic growth.
 
 
-[Project Dashboard]https://bit.ly/DashboardSDG8A
+[Project Dashboard](https://bit.ly/DashboardSDG8A)
 
-[Presentation Deck]https://docs.google.com/presentation/d/1PnsT4dY3u8VZuggOSxURjj_cqSJH9DyqObmGwnPV81A/edit?usp=sharing
+[Presentation Deck](https://docs.google.com/presentation/d/1PnsT4dY3u8VZuggOSxURjj_cqSJH9DyqObmGwnPV81A/edit?usp=sharing)
